@@ -3,7 +3,7 @@
 Before running nothing, use
 
 ```
-neu update
+npm run neu update
 ```
 
 This template provides various commands:
